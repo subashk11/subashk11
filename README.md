@@ -5,6 +5,7 @@ I'm a passionate Software Engineer with experience in building scalable and effi
 ---
 
 ### 💼 Experience
+- **Senior Analyst** at Standard Chartered Bank
 - **Software Engineer** at Edvak Health  
 - **Associate Software Engineer** at PowerSchool  
 - **Software Engineer Intern** at PowerSchool
